@@ -1,0 +1,12 @@
+# FreeZone BD - robots.txt
+# Public pages (policies) may be indexed; the app screens need a login, so they are kept out.
+User-agent: *
+Allow: /FreeZone-BD-/privacy.html
+Allow: /FreeZone-BD-/terms.html
+Allow: /FreeZone-BD-/guidelines.html
+Allow: /FreeZone-BD-/creator-terms.html
+Allow: /FreeZone-BD-/delete-account.html
+Disallow: /FreeZone-BD-/feed.html
+Disallow: /FreeZone-BD-/login.html
+
+Sitemap: https://freezonebd.github.io/FreeZone-BD-/sitemap.xml
